@@ -1,0 +1,32 @@
+.appointment {
+	 padding: 40px;
+	 margin-left:100px;
+	
+}
+
+.appointment table {
+	display: flex;
+    justify-content: center;
+}
+
+.appointment table tr {
+
+	 height: 30px;
+	
+}
+
+.appointment table tr td {
+	padding: 10px;
+	width: 350px; 
+}
+
+.appointment .buttn, h3 {
+	margin-top: 20px;
+	display: flex;
+    justify-content: center;
+}
+
+.appointment .name {
+	font-weight: bold;
+	
+} 

@@ -1,0 +1,24 @@
+.applist {
+	padding: 40px;
+	margin-left:100px;
+	width: 90%; 
+}
+
+
+.applist th  {
+	background: #d7e8f0;
+}
+
+.applist td{
+	text-align: center;
+	vertical-align:middle; 
+	
+}
+
+.applist th, .applist td {
+  border-bottom: 1px solid #ddd;
+}
+
+.applist tr:hover {
+	background-color: #d9eee1;
+}

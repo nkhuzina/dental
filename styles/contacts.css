@@ -1,0 +1,25 @@
+.contact {
+	height: 200px;
+}
+
+.contact .address, .schedule {
+	min-height: 200px;
+	margin-top: 20px;
+	padding: 20px;
+	margin-bottom: 20px;
+		#border: 3px solid black;
+	#background: rgba(255,255,0, 0.2);
+}
+
+
+.address {
+	float: left;
+	width: 600px;
+	margin-right: 10px;
+}
+
+.schedule {
+	float: left;
+	width: 600px;
+	margin-right: 10px;
+}
